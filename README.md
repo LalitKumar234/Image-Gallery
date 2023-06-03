@@ -1,7 +1,7 @@
 # Image-Gallery
 
-This is an Image Gallery app in MERN stack where you can upload images. You can upload image via selecting the file or just by drag and drop.
-For storing the image I have used [filestack](https://www.filestack.com/). After filestack gives us the link we are then saving that link along with the title and description to the mongodb database.
+This is an Image Gallery app in MERN stack where you can upload images via selecting the file or just by drag and drop.
+For storing the image I have used [filestack](https://www.filestack.com/). Filestack gives us the link we are then saving that link along with the title and description to the mongodb database.
 
 ## Folder-Structure
 
