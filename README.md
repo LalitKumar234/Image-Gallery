@@ -5,7 +5,7 @@ For storing the image I have used [filestack](https://www.filestack.com/). Files
 
 ## Folder-Structure
 
-In this project we have two folders one for the backend and other for frontend. In the .env of backend add your API key for filestack and MongodDB-URI. After that type` npm install` and `npm run dev` this will start your development server.
+In this project we have two folders one for the backend and other for frontend. In the .env of backend add your API key for filestack and MongoDB-URI. After that type` npm install` and `npm run dev` this will start your development server.
 Frontend part is pretty straight forward just type `npm install` and `npm start`.
 
 ## Make sure to follow @frontend_edy on instagram for more projects like this one.
